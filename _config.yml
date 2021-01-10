@@ -4,7 +4,7 @@ email: hello@neutriino.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Neutriino develops bleeding-edge cloud-scale products."
 keywords: "neutrino, neutriino, yeticloud, yeti, cloud, aws, azure, gcp, google cloud, database, p2p, peer-to-peer, peer, data base, data, base"
-skills: "skills?"
+skills: "Neutriino develops bleeding-edge cloud-scale products."
 meta_author: lastname firstname
 
 # Google webmaster tools
@@ -32,10 +32,9 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Neutriino
   location: Location
-  social: Around the Web
-  credits: Credits
+  social: Social
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
